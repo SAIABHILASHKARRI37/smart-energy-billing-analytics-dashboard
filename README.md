@@ -194,13 +194,11 @@ This project can support smart utility companies in:
 
 ---
 
-## 📷 Dashboard Screenshots
+## 📷 Dashboard Screenshot
 
-> Add Power BI dashboard screenshots here
+Below is the interactive Power BI dashboard built for smart meter consumption, billing analytics, and anomaly detection.
 
-Example:
-
-`[/screenshots/dashboard_overview.png](https://github.com/SAIABHILASHKARRI37/smart-energy-billing-analytics-dashboard/blob/main/Screenshot%202026-04-05%20174334.png)`
+![Smart Energy Dashboard](./Screenshot%202026-04-05%20174334.png)
 
 
 
